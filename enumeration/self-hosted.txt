@@ -3,7 +3,7 @@ confluence
 sentry
 kibana
 youtrack
-saleforce
+salesforce
 lync
 owncloud
 nextcloud
@@ -15,3 +15,10 @@ passbolt
 vault
 gitlab
 elastic
+dropbox
+notion
+zoho
+slack
+bitbucket
+notion
+trello
