@@ -1,0 +1,17 @@
+jira
+confluence
+sentry
+kibana
+youtrack
+saleforce
+lync
+owncloud
+nextcloud
+minio
+zulip
+rocketchat
+bitwarden
+passbolt
+vault
+gitlab
+elastic
